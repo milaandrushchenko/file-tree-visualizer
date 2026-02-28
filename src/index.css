@@ -1,0 +1,16 @@
+.folder {
+  padding: 4px 0;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.file {
+  padding: 4px 0;
+}
+
+.item-children {
+  padding-left: 20px;
+}
